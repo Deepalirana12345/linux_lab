@@ -8,5 +8,7 @@ Command to be used
 touch song{1..6}.mp3 snap{1..6}.jpg film{1..6}.avi
 mkdir friends family work
 
-![Uploading WhatsApp Image 2025-03-19 at 11.23.38_43644c15.jpg…]()
+![Uploading WhatsApp Image 2025-03-19 at 11.23.40_7caea64d.jpg…]()
+
+
 
