@@ -5,6 +5,9 @@ command to be used:
 
 
 lab_file="editing_final_lab.txt"
+
 vim "$lab_file"
+
 :wq
+
 nano "$lab_file"
