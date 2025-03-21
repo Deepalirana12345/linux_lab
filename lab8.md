@@ -3,6 +3,56 @@ Write shell scripts to print system information. Write shell script to perform b
 
 command to be used
 
+#!/bin/bash
+
+    echo "System Information Report"
+    
+    echo "========================="
+    
+    echo "Hostname: $(hostname)"
+    
+    echo "Operating System: $(uname -o)"
+    
+    echo "Kernel Version: $(uname -r)"
+    
+    echo "Uptime: $(uptime -p)"
+
+
+    #!/bin/bash
+    
+echo "Enter first number: "
+
+read num1
+
+echo "Enter second number: "
+
+read num2
+
+    echo "Mathematical Operations"
+    
+    echo "======================="
+    
+    echo "Addition: $((num1 + num2))"
+    
+    echo "Subtraction: $((num1 - num2))"
+    
+    echo "Multiplication: $((num1 * num2))"
+    
+    echo "Division: $(echo "scale=2; $num1 / $num2" | bc)"
+
+
+    nano redirection.sh
+    
+    touch file.txt
+    
+    bash redirection.sh
+    
+    bash file.txt
+  
+
+
+
+
 
 
 ![Screenshot_from_2025-03-18_14-40-28 1](https://github.com/user-attachments/assets/c3085336-2b0b-46ac-b3b7-3d116585ba90)
