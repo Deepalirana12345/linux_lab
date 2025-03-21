@@ -21,3 +21,11 @@ source /home/operator1/.bashrc
 umask
 
 output: 0007
+
+![WhatsApp Image 2025-03-21 at 21 59 31_abab4a9a](https://github.com/user-attachments/assets/22b20c47-8e97-4f63-b61a-2d32439e5bf4)
+
+![WhatsApp Image 2025-03-21 at 21 59 31_7f545553](https://github.com/user-attachments/assets/d97b0b19-db64-434f-827f-78f2f6c41d29)
+
+
+
+
